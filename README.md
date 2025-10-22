@@ -23,7 +23,8 @@ This project contains a Python script that cleans and preprocesses a marketing c
 pip install pandas
 ```
 ## How to run
-``` bash python cleaned_marketing_data.py
+``` bash
+python cleaned_marketing_data.py
 ```
 
 ## 📁 File Structure
